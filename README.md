@@ -1,61 +1,54 @@
 # React Fast App 🚀
 
-A blazing fast way to start a React project pre-configured with **Vite**, **Tailwind CSS**, and **ShadCN UI** — all in one command.
+A blazing fast CLI to bootstrap a React project with Vite, Tailwind CSS, and ShadCN UI — all in one command.
 
----
-## 🛠️ Usage
+## 🚀 Quick Start
 
 ```bash
 npm create react-fast-app
 ```
----
 
-## 🚀 What is this?
+Follow the prompts and start building immediately.
 
-This CLI helps you bootstrap a new React project with modern UI library - ShadCN, so you don’t need to install Tailwind and ShadCN UI manually every time.
+## ✨ Features
 
-## 📦 Features
+- ⚡ Vite + React for lightning-fast development
+- 🎨 Tailwind CSS pre-configured
+- 💎 ShadCN UI components ready to use
+- 🌏 Auto localhost startup
+- 📁 Clean, organized folder structure
 
-- ⚡ Vite + React setup
-- 🎨 Tailwind CSS configured
-- 💎 ShadCN UI ready to use
-- 🌏 Auto localhost
-- 📂 Folder Structure
+## 📂 Project Structure
 
----
-
-## 📂 Folder Structure
 ```
-├───public
-└───src
-    ├───assets
-    ├───components
-    ├───hooks
-    ├───layouts
-    ├───lib
-    └───pages
+├── public/
+└── src/
+    ├── assets/
+    ├── components/
+    ├── hooks/
+    ├── layouts/
+    ├── lib/
+    └── pages/
 ```
----
 
-Follow the prompts to choose your configuration and you're ready to go!
+## 💡 Perfect For
 
-## 🧪 What's inside?
+- Modern React applications
+- UI-focused projects
+- Quick prototypes with polished design
+- Projects requiring ShadCN components
 
-- `Tailwind CSS`
-- `ShadCN UI` components and themes
----
+## 🧰 Tech Stack
 
-### Ways to Contact Us:
+- Vite
+- React
+- Tailwind CSS
+- ShadCN UI
 
-1. **GitHub Issues**: You can open an issue directly on this repository for bugs, feature requests, or general inquiries.
-   - [Open an Issue](https://github.com/satendra03/react-fast-app/issues)
+## 📬 Contact
 
-2. **Email**: Reach out to us via email at:
-   - <a href="mailto:satendrakumarparteti.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-
-3. **Social Media**:
-   - <a href="https://instagram.com/_satendra_03"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-   - <a href="https://linkedin.com/in/connect-satendra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-4. **Buy Me A Coffee**:
-   - <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
----
+- **Issues**: [GitHub Issues](https://github.com/satendra03/react-fast-app/issues)
+- **Email**: satendrakumarparteti.work@gmail.com
+- **Instagram**: [@_satendra_03](https://instagram.com/_satendra_03)
+- **LinkedIn**: [connect-satendra](https://linkedin.com/in/connect-satendra)
+- **Buy Me A Coffee**: [Support](https://buymeacoffee.com/satendra03)
