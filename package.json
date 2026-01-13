@@ -1,0 +1,43 @@
+{
+  "name": "create-react-fast-app",
+  "version": "1.1.0",
+  "type": "module",
+  "description": "Instantly create a React + Vite + Tailwind + ShadCN app",
+  "bin": {
+    "create-react-fast-app": "./index.js",
+    "react-fast-app": "./index.js"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "degit": "^2.8.4",
+    "enquirer": "^2.4.1",
+    "execa": "^9.5.3",
+    "figlet": "^1.8.1",
+    "gradient-string": "^3.0.0",
+    "open": "^10.1.2",
+    "ora": "^8.2.0",
+    "path": "^0.12.7",
+    "prompts": "^2.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satendra03/react-fast-app.git"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "tailwind",
+    "shadcn",
+    "react-cli",
+    "vite-cli",
+    "boilerplate",
+    "scaffold",
+    "starter",
+    "react-template",
+    "create-react-app",
+    "npm create"
+  ],
+  "author": "Satendra Kumar Parteti",
+  "license": "MIT"
+}
